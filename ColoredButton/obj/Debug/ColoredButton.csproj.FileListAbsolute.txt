@@ -1,0 +1,16 @@
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\bin\Debug\ColoredButton.exe.config
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\bin\Debug\ColoredButton.exe
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\bin\Debug\ColoredButton.pdb
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\MainWindow.g.cs
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\App.g.cs
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton_MarkupCompile.cache
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton_MarkupCompile.lref
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\MainWindow.baml
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.g.resources
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.Properties.Resources.resources
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.csproj.GenerateResource.cache
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.exe
+C:\Users\Shebnem\source\repos\ColoredButton\ColoredButton\obj\Debug\ColoredButton.pdb

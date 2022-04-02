@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59c3634c-2eb3-486e-a8c4-cc1e4de262b0": {
+      "ProjectGuid": "59c3634c-2eb3-486e-a8c4-cc1e4de262b0",
+      "DisplayName": "ColoredButton",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
